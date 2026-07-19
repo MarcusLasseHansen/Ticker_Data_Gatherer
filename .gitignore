@@ -11,7 +11,7 @@ __pycache__/
 
 # Data
 data/
-combined_cscs/
+combined_csvs/
 .backup_data/
 
 # Distribution / packaging

@@ -5,7 +5,7 @@ if __name__ == "__main__":
 
 import yfinance as yf
 from datetime import datetime
-
+import os
 def gather_today_csv(aTickers,aPeriod="8d",aInterval="1m"):
     if not os.path.isdir("data"):
         if os.path.isfile("data"):
