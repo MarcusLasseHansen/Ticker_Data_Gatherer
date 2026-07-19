@@ -6,7 +6,7 @@ if __name__ != "__main__":
 # global variables
 tickers = ["MSFT","AMZN","HD","DIS","AAPL"
           ,"XOM","SLB","JNJ","GE","BA","BRK-B"
-          ,"V","KO","^TYX","^IXIC","^GSPC"
+          ,"V","KO","^IXIC","^GSPC"
           ]
 
 # data collection
